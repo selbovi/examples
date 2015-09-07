@@ -11,5 +11,4 @@ public class FirstTest {
     public void first() throws Exception {
         assert ("OK".equals(OK));
     }
-
 }
